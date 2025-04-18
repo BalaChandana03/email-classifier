@@ -195,6 +195,14 @@ To run the entire email classifier and PII masking project:
   - CVV number
   - Expiry date
 
----
+---![Screenshot (161)](https://github.com/user-attachments/assets/d2ac8cce-5e00-4a58-82b8-e22eb4cf247a)
+![Screenshot (160)](https://github.com/user-attachments/assets/e650586d-7e90-42cf-971e-318287e7926e)
+![Screenshot (159)](https://github.com/user-attachments/assets/2686d617-2b74-44c1-88c4-fca4897319cd)
+![Screenshot (158)](https://github.com/user-attachments/assets/cbbb9691-69a0-4c1b-aaaa-adaa2e079145)
+![Screenshot (157)](https://github.com/user-attachments/assets/74162c4a-58f2-4c97-bdc8-2b1b214027e4)
+![Screenshot (156)](https://github.com/user-attachments/assets/60cda50f-a19e-4481-9b57-5cb8e8a95ce0)
+![Screenshot (155)](https://github.com/user-attachments/assets/626d0937-354f-485b-b027-079afeaaedee)
+![Screenshot (154)](https://github.com/user-attachments/assets/7bc1a370-f575-4824-b76f-ebaa5500ef40)
+
 
 
