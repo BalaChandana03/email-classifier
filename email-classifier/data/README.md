@@ -194,6 +194,8 @@ To run the entire email classifier and PII masking project:
   - Credit/Debit card number
   - CVV number
   - Expiry date
+ 
+  Output:
 ![Screenshot (154)](https://github.com/user-attachments/assets/7bc1a370-f575-4824-b76f-ebaa5500ef40)
 ![Screenshot (155)](https://github.com/user-attachments/assets/626d0937-354f-485b-b027-079afeaaedee)
 ![Screenshot (156)](https://github.com/user-attachments/assets/60cda50f-a19e-4481-9b57-5cb8e8a95ce0)
